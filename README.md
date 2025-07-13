@@ -1,2 +1,2 @@
 # IronhackCourse
-Curso Ironhac
+Curso Ironhack
